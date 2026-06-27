@@ -1,0 +1,12 @@
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large neural network binary model weights (app downloads them dynamically)
+models/MobileNetSSD_deploy.caffemodel
+models/yolov5n.onnx
+
+# Streamlit logs & local run data
+.streamlit/
+*.log
