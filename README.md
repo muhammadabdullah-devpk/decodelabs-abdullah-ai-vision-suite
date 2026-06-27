@@ -1,6 +1,6 @@
 # 🧠 Enterprise AI Vision Suite
 
-![Enterprise AI Vision Suite Banner](assets/banner.png)
+<p align="center"><img src="assets/banner.png" alt="Enterprise AI Vision Suite Banner" width="650"></p>
 
 An enterprise-grade, high-contrast computer vision, object localization, and natural language processing (NLP) document parsing application. Engineered as the optional mastery phase milestone (Project 4) for the **DecodeLabs Artificial Intelligence Engineer** curriculum.
 
