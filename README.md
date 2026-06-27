@@ -1,6 +1,16 @@
 # 🧠 Enterprise AI Vision Suite
 
-<p align="center"><img src="assets/preview.png" alt="Enterprise AI Vision Suite Preview" width="380"></p>
+<p align="center">
+  <strong>An Advanced Computer Vision, Real-Time Deep Learning Detection, and NLP Document Parsing Dashboard</strong>
+  <br />
+  <sub>Engineered for DecodeLabs Project 4 Milestone · Built with Streamlit, OpenCV, and WinRT</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/muhammadabdullah-devpk/decodelabs-abdullah-ai-vision-suite?style=for-the-badge&color=0284c7&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/muhammadabdullah-devpk/decodelabs-abdullah-ai-vision-suite?style=for-the-badge&color=27272a&logo=git" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/muhammadabdullah-devpk/decodelabs-abdullah-ai-vision-suite?style=for-the-badge&color=f87171&logo=github" alt="Issues" />
+</p>
 
 An enterprise-grade, high-contrast computer vision, object localization, and natural language processing (NLP) document parsing application. Engineered as the optional mastery phase milestone (Project 4) for the **DecodeLabs Artificial Intelligence Engineer** curriculum.
 
